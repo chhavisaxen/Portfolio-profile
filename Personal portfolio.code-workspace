@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Namaste world JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Namaste world JS"
+	}
+}
